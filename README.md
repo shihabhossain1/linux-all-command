@@ -2,7 +2,7 @@ Here's a complete README file documenting common Linux Ubuntu 24.04 commands inc
 
 You can save this as a file called README.md: 
 
-📄 README.md
+📄 README.md.
 
 ````markdown
 # Ubuntu 24.04 - Command Reference Guide
