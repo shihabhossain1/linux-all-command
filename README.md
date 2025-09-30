@@ -1,6 +1,6 @@
 Here's a complete README file documenting common Linux Ubuntu 24.04 commands including system monitoring, installation of services (Redis, Elasticsearch, PostgreSQL, pyenv), Python version management, and display scaling.
 
-You can save this as a file called README.md:
+You can save this as a file called README.md: 
 
 📄 README.md
 
